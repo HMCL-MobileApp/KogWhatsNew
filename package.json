@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/HMCL-MobileApp/KogWhatsNew/issues"
   },
-  "homepage": "https://github.com/HMCL-MobileApp/KogWhatsNew#readme"
+  "homepage": "https://github.com/HMCL-MobileApp/KogWhatsNew#readme",
+  "publishConfig": {
+    "HMCL-MobileApp:registry": "https://npm.pkg.github.com"
+  }
 }
